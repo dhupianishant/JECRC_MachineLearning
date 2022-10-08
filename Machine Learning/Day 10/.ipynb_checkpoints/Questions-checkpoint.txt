@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------
+QUESTIONS
+-----------------------------------------------------------------------------------------
+1. Find the longest movie.
+2. Find the number fof movies which got 10 star rating.
+3. How many industries are there.
+4. Find the  least liked comdey movie name.
+5. Longest english movie.
+6. What is the genre of interstellar.
+7. What is the average duration of each genre.
+8. What is the average erating of each industry.
+9. Average rating of romatic movies industry wise.
+10. List down all the english mmovies with their respective ratings in descending order.
