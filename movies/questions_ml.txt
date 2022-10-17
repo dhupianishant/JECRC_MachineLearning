@@ -1,0 +1,10 @@
+1. find the longest movie name
+2. no of movies who got 10 star rating
+3. how many industries are there
+4. least liked comedy movie name
+5. longest english movies
+6. what is genre of interstellar
+7. avg duration of each genre
+8. avg rating of each industry
+9. avg rating of romantic movie industry wise
+10. list down all the english movies with respective ratings in descending order

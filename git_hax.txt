@@ -1,0 +1,21 @@
+git process
+------------------
+> create new repo
+> provide valid name
+> select public repo
+> finish
+
+git commands. training
+------------------
+git init		#initialize the GIT folder
+git add .		#add all files/folders in git folder
+git config user.name "Parth"
+git config user.email "parthvijay21@gmail.com"
+git remote add origin "repolink"
+
+git commit
+
+everyday---
+
+git commit -m "anymessage"
+git push -u origin main

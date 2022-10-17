@@ -1,0 +1,16 @@
+﻿id,name,industry,genre,language,duration,rating
+1,bahubali,tollywood,action,telegu,170,9.5
+2,bhrasmastra,bollywood,mystery,hindi,180,5
+3,URI,bollywood,action,hindi,120,10
+4,DDLJ,bollywood,romance,hindi,150,10
+5,avengers end game,hollywood,action,english,180,9
+6,tenet,hollywood,sci-fi,english,150,8.5
+7,major,bollywood,action,hindi,140,8
+8,interstellar,hollywood,sci-fi,english,190,7
+9,gravity,hollywood,sci-fi,english,130,6
+10,titanic,hollywood,drama,english,180,9
+11,yeh jawani hai deewani,bollywood,romance,hindi,150,5
+12,houseful,bollywood,comedy,hindi,150,6
+13,the dictator,hollywood,comedy,english,120,7
+14,hera pheri,bollywood,comedy,hindi,140,9
+15,sholay,bollywood,drama,hindi,150,8.5

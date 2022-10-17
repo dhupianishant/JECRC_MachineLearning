@@ -1,0 +1,163 @@
+Rules for variables
+
+1. cant start with number
+
+2. no space
+
+3. cant use special character
+
+4. cant use keyword
+
+--------------------------------------------------
+
+python operator
+7 types
+1. Arithmetic				+, -, *, /, %, //, **
+2. Comparison/ Relational Operator	>, <, >=, <=, !=, ==
+3. Assignment opr			+, +=, -=, *=, /=, //=
+4. Bitwise				&, |, ^				
+5. Logical operator			and, or, not
+6. Identity Operator			is, is not
+7. Membership opr			is, not in
+
+------------------------------------------------------
+
+() -- Function, expression, tupple 
+[] -- List, Indexing, slicing
+{} -- Set, Dictionary
+<> -- No use
+
+---------------------------------------------------
+
+Data types
+
+5 types
+
+1. Numeric
+	a. Integer
+	b. Complex
+	c. Float
+2. Dictionary
+3. Boolean
+4. Set
+5. Sequence type
+	a. Strings
+	b. List
+	c. Tuple
+
+----------------------------------------------------
+
+1. a[start : stop : step]
+
+----------------------------------------------------
+LIST
+
+m.extend()............. multi items at end of list
+m.insert()............. at index
+m.append()............. single item at end of list
+
+m.
+
+
+----------------------------------------------------
+TUPLE
+
+1. {}
+2. comma sep val
+3. immutable
+4. homo/hetro
+5. indexing / slicing
+
+----------------------------------------------------
+SET
+
+1. unordered
+2. indexing / slicing (no use)
+3. unique
+4. intersection() , union() , add() , discard() , remove() , update()
+
+----------------------------------------------------
+DICTIONARY
+
+1. Unordered
+2. key value pair
+3. indexing/slicing not possible
+4. d1.keys(), d1.values(), d1.items(), d1.get('email')
+5. to delete key .... del d1['phone']
+
+---------------------------------------------------
+print()
+sep
+
+---------------------------------------------------
+
+3 STATEMENTS
+
+1. condition/decision making -- if-elif-else
+2. Looping -- For and while
+3. Exception Handling ----- try, expect
+
+---------------------------------------------------
+simple if
+--------------
+age = int (input("bhai age btao"))
+if age < 18 :
+	print('A gift')
+if age >= 18 and age <=20:
+	print('a gift')
+	print('a task')
+if age > 20:
+	print('No gift')
+------------------------------------------
+
+LADDER
+---------
+age = int (input("bhai age btao"))
+if age<18:
+	print('A gift')
+elif age>=18 and age<20:
+	print('a gift')
+	print('a task')
+else:
+	print('no gift')
+---------------------------------
+
+NESTED
+---------
+if today == 'saturday':
+	print('half day work')
+elif today == 'sunday':
+	if condition == 'sick':
+		print('take rest')
+	else:
+		print('party')
+----------------------------------
+range(start point(including), stop point(excluding), step)
+
+	(by default 0)
+
+
+
+-----------------------------------------------
+loops missed
+-----------------------------------------------
+
+FUNCTION
+types
+1. no ip no op
+2. no ip but op
+3. ip but no op
+4. ip and op
+---------------------------
+1. taking multiple ip
+2. returning multiple op
+3. keyword argument
+4. default values
+5. *args
+6. *kwargs
+-------------------------------
+Module -- it is a .py file ; Ex- OS, Math
+Packages -- it is a collection of many modules; __init__.py
+Libraries -- It is a collection of packages
+
+-------------------------------
